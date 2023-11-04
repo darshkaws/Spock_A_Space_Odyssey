@@ -1,0 +1,1 @@
+**Added game_assets folder for images and/or sound files.**
